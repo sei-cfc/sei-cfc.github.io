@@ -104,7 +104,17 @@ refaz as contas do valor estimado, e você não digita resultado nenhum.
 
 O **mapa de riscos**, quando a contratação pede, também é feito no Compras.gov.br. Anexe o PDF.
 
-### 10. Envio à Gelic
+### 10. Verificar antes de enviar
+
+Antes do envio, clique em **Verificar antes de enviar** no selo (ou em **Verificar**, na linha do roteiro). Uma aba
+própria confere a instrução pelos mesmos critérios do DVI da Gelic. Cada item pendente aparece com o que corrigir:
+corrija nos autos e verifique de novo, ou escreva a justificativa. Com tudo atendido ou justificado, grave o
+**Checklist de Conformidade** no processo e assine-o.
+
+!!! example "Espaço para print"
+    Verificação prévia com um item pendente.
+
+### 11. Envio à Gelic
 
 Com o roteiro completo, preencha o **despacho de envio à Gelic**. Ele sai dos autos e lista as peças prontas. Grave,
 assine e **envie o processo à Gelic** pelo SEI, como sempre.
@@ -116,7 +126,7 @@ assine e **envie o processo à Gelic** pelo SEI, como sempre.
 
 ## Parte 2: a Gelic (SEI CFC Gelic)
 
-### 11. A etapa de cada processo
+### 12. A etapa de cada processo
 
 No **Controle de Processos**, **Calcular etapas** põe a etapa em cada linha: o processo novo aparece como chegado para a
 análise inicial. Os botões de etapa acima da lista filtram por etapa. Com permissão no PCA, **Atualizar PCA** mantém o
@@ -125,7 +135,7 @@ acompanhamento do item em dia.
 !!! example "Espaço para print"
     Controle de Processos com a etapa em cada linha.
 
-### 12. Análise e pendências
+### 13. Análise e pendências
 
 Abra o processo. O selo mostra a etapa e o próximo passo.
 
@@ -136,10 +146,13 @@ Abra o processo. O selo mostra a etapa e o próximo passo.
 !!! example "Espaço para print"
     Selo da Gelic com o detalhe aberto.
 
-### 13. O DVI
+### 14. O DVI
 
 Em **Gerar documento**, escolha o **DVI**. O agente prepara o despacho com os achados, no formato da Gelic, e mostra a
 prévia. Nada é gravado sem a sua aprovação. Revise, aprove e assine no SEI.
+
+Se a unidade gravou o **Checklist de Conformidade**, ele está nos autos com as justificativas dela. Leia-o antes do DVI:
+as justificativas pedem resposta (aceita ou não aceita, e por quê).
 
 - **Se houver pendências:** use o **despacho de devolução** para que a unidade ajuste. O processo volta à Parte 1, e a
   Gelic faz o reexame.
@@ -148,12 +161,12 @@ prévia. Nada é gravado sem a sua aprovação. Revise, aprove e assine no SEI.
 !!! example "Espaço para print"
     Prévia do DVI no painel do agente.
 
-### 14. Reserva orçamentária
+### 15. Reserva orçamentária
 
 Gere o **despacho à Gecont, com a solicitação de reserva**, em **Gerar documento**. A Gecont faz a reserva e devolve o
 processo.
 
-### 15. Autorização da contratação direta e aviso de dispensa
+### 16. Autorização da contratação direta e aviso de dispensa
 
 Gere a **autorização de contratação direta** para a autoridade assinar. Depois, gere o **aviso de dispensa eletrônica**.
 Nos dois casos, os modelos saem com o texto fixo intacto: a IA só preenche as variáveis, com base nos autos.
@@ -161,17 +174,17 @@ Nos dois casos, os modelos saem com o texto fixo intacto: a IA só preenche as v
 !!! example "Espaço para print"
     Lista de documentos em **Gerar documento**.
 
-### 16. A disputa no Compras.gov.br
+### 17. A disputa no Compras.gov.br
 
 A sessão da dispensa eletrônica acontece no Compras.gov.br, fora da extensão. Junte ao processo os documentos do
 resultado: a ata da disputa, a habilitação e a adjudicação e homologação.
 
-### 17. O contrato
+### 18. O contrato
 
 Em **Gerar documento**, escolha o **contrato** (compras ou serviços, modelo PROJUR de contratação direta). Os dados
 saem dos autos: a contratada, o objeto, o valor e a vigência. Revise a prévia e grave.
 
-### 18. Assinatura
+### 19. Assinatura
 
 O contrato é assinado no SEI pela autoridade do CFC e pela contratada, como usuária externa. Depois das assinaturas, o
 selo mostra a etapa seguinte, que é pedir o empenho, e o PCA recebe a atualização do item.
@@ -187,8 +200,9 @@ selo mostra a etapa seguinte, que é pedir o empenho, e o PCA recebe a atualiza�
 |---|---|---|---|
 | 1–3 | Item no PCA e criação do processo | Unidade | PCA e SEI CFC |
 | 4–9 | Instrução: DFD, termos, ETP, TR, preços e riscos | Unidade | SEI CFC e Compras.gov.br |
-| 10 | Envio à Gelic | Unidade | SEI CFC |
-| 11–13 | Etapa, pendências e DVI | Gelic | SEI CFC Gelic |
-| 14–15 | Reserva, autorização e aviso | Gelic | SEI CFC Gelic |
-| 16 | Disputa | Gelic | Compras.gov.br |
-| 17–18 | Contrato e assinatura | Gelic, autoridade e contratada | SEI CFC Gelic e SEI |
+| 10 | Verificar antes de enviar (Checklist de Conformidade) | Unidade | SEI CFC |
+| 11 | Envio à Gelic | Unidade | SEI CFC |
+| 12–14 | Etapa, pendências e DVI | Gelic | SEI CFC Gelic |
+| 15–16 | Reserva, autorização e aviso | Gelic | SEI CFC Gelic |
+| 17 | Disputa | Gelic | Compras.gov.br |
+| 18–19 | Contrato e assinatura | Gelic, autoridade e contratada | SEI CFC Gelic e SEI |
