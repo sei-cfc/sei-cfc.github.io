@@ -21,7 +21,8 @@ Só se você ligar a extensão ao PCA, com o seu token:
 ## O que vai para o provedor de IA
 
 Só quando você pede ao agente de IA uma análise ou um documento, com a chave configurada no agente: o recorte dos autos
-necessário para o pedido, com os nomes de pessoas trocados por pseudônimos.
+necessário para o pedido. Por padrão, os nomes de pessoas vão trocados por pseudônimos; dá para desligar isso nos ajustes
+do agente.
 
 ## O que nunca acontece
 

@@ -37,5 +37,6 @@ dele, e mantém o PCA em dia com o andamento.
 
 ## Funções do SEI Pro
 
-As funções do SEI Pro continuam disponíveis. **Demandas** e **Projetos** vêm desligadas: para ligar, abra as
-Configurações do SEI Pro, aba **Geral**.
+As funções do SEI Pro continuam disponíveis. Em instalação nova, e para quem nunca salvou as Configurações do SEI Pro,
+**Demandas** e **Gerenciar Projetos** vêm desligadas. Para ligar: Configurações do SEI Pro, aba **Geral**, seção
+**Controle de Processos**.
