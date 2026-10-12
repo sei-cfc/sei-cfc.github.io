@@ -1,5 +1,8 @@
 # SEI CFC
 
+!!! tip "Primeira vez?"
+    Comece pelo [passo a passo de uma dispensa eletrônica](tutorial.md): do item no PCA ao contrato assinado.
+
 Para as unidades demandantes: quem pede a contratação e monta a instrução do processo.
 
 ## Primeiros passos
