@@ -1,5 +1,11 @@
 # Novidades
 
+## 2.9.0.19 — 12/10/2026 {#v2-9-0-19}
+
+- Primeira versão preparada para a Chrome Web Store. O código-fonte passa a ser público:
+  https://github.com/sei-cfc/sei-cfc.
+- Os exemplos que acompanham os modelos de documento passam a usar dados fictícios.
+
 ## 2.9.0.18 — 12/10/2026 {#v2-9-0-18}
 
 Primeira versão com este site.
